@@ -1,2 +1,2 @@
 # Proyecto-Gestoria
-Proyecto para Desarrollo de Proyectos
+Proyecto para asignatura Desarrollo de Proyectos
